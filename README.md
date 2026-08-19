@@ -1,6 +1,6 @@
 # Refactorización DAX y Optimización con Variables — RetailPro
 
-**Autor:** Analista de Datos SSR  
+**Autor:** Axel El Hilon
 **Proyecto:** Optimización de código DAX e implementación de buenas prácticas  
 **Dataset:** Sample Superstore  
 **Archivo del modelo:** `sample-superstore.pbix`
